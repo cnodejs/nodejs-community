@@ -3,7 +3,7 @@ Chinese Nodejs Community Release Notes
 
 ---
 
-[提交你的博客文章，社区活动以及相应应用](https://github.com/cnodejs/cnodejs-community/edit/master/README.md)
+[提交你的博客文章，社区活动以及相应应用](https://github.com/cnodejs/nodejs-community/edit/master/README.md)
 
 请提交任何与nodejs相关的博客文章，社区活动信息以及应用！
 
